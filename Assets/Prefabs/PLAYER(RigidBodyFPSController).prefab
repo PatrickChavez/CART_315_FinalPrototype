@@ -620,6 +620,18 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1256459473474205896, guid: 8ecd1d8aac5be4f7d84816c188665227, type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: 5e19fee4bbc194f43bf821e4a0027e71, type: 3}
+    - target: {fileID: 5962898277667968254, guid: 8ecd1d8aac5be4f7d84816c188665227, type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: 5e19fee4bbc194f43bf821e4a0027e71, type: 3}
+    - target: {fileID: 5962898277667968254, guid: 8ecd1d8aac5be4f7d84816c188665227, type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 24
+      objectReference: {fileID: 0}
     - target: {fileID: 5962898277871048615, guid: 8ecd1d8aac5be4f7d84816c188665227, type: 3}
       propertyPath: m_Name
       value: CanvasHUD
@@ -716,6 +728,10 @@ PrefabInstance:
       propertyPath: m_RootOrder
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 5962898279064113801, guid: 8ecd1d8aac5be4f7d84816c188665227, type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: 5e19fee4bbc194f43bf821e4a0027e71, type: 3}
     - target: {fileID: 5962898279064114551, guid: 8ecd1d8aac5be4f7d84816c188665227, type: 3}
       propertyPath: m_IsActive
       value: 1

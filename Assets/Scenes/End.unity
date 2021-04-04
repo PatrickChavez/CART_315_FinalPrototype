@@ -1290,11 +1290,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3244622389235452025, guid: 4fefbd314d95c4364ade6adedd4f3b08, type: 3}
       propertyPath: m_text
-      value: 'Jake Sullivan
+      value: 'Google Fonts
+
+        Jake Sullivan
 
         mgsvevo
 
-        Unity Technologies Inc.
+        Unity
+        Technologies Inc.
 
 
 '
@@ -1308,8 +1311,16 @@ PrefabInstance:
       value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6218961205380640115, guid: 4fefbd314d95c4364ade6adedd4f3b08, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 5.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 6218961205380640115, guid: 4fefbd314d95c4364ade6adedd4f3b08, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 21.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6218961205380640115, guid: 4fefbd314d95c4364ade6adedd4f3b08, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -0.9
+      value: 1.4
       objectReference: {fileID: 0}
     - target: {fileID: 6590217733538458594, guid: 4fefbd314d95c4364ade6adedd4f3b08, type: 3}
       propertyPath: m_CastShadows
