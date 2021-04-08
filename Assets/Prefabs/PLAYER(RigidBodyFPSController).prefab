@@ -262,7 +262,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cam: {fileID: 1310835126705344375}
   movementSettings:
-    ForwardSpeed: 8
+    ForwardSpeed: 6
     BackwardSpeed: 4
     StrafeSpeed: 4
     RunMultiplier: 2
