@@ -703,10 +703,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 6423618978965828284, guid: 4d116b1e2b5b44fe48c0c9df4ae82efb, type: 3}
+      propertyPath: m_Speed
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 6423618978965828285, guid: 4d116b1e2b5b44fe48c0c9df4ae82efb, type: 3}
       propertyPath: Player
       value: 
       objectReference: {fileID: 1537971967}
+    - target: {fileID: 6423618978965828285, guid: 4d116b1e2b5b44fe48c0c9df4ae82efb, type: 3}
+      propertyPath: MobDistanceRun
+      value: 25
+      objectReference: {fileID: 0}
     - target: {fileID: 6423618978965828286, guid: 4d116b1e2b5b44fe48c0c9df4ae82efb, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -5273,13 +5281,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 6423618978965828284, guid: 4d116b1e2b5b44fe48c0c9df4ae82efb, type: 3}
+      propertyPath: m_Speed
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 6423618978965828285, guid: 4d116b1e2b5b44fe48c0c9df4ae82efb, type: 3}
       propertyPath: Player
       value: 
       objectReference: {fileID: 1537971967}
     - target: {fileID: 6423618978965828285, guid: 4d116b1e2b5b44fe48c0c9df4ae82efb, type: 3}
       propertyPath: MobDistanceRun
-      value: 30
+      value: 25
       objectReference: {fileID: 0}
     - target: {fileID: 6423618978965828286, guid: 4d116b1e2b5b44fe48c0c9df4ae82efb, type: 3}
       propertyPath: m_RootOrder
@@ -5493,13 +5505,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 6423618978965828284, guid: 4d116b1e2b5b44fe48c0c9df4ae82efb, type: 3}
+      propertyPath: m_Speed
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 6423618978965828285, guid: 4d116b1e2b5b44fe48c0c9df4ae82efb, type: 3}
       propertyPath: Player
       value: 
       objectReference: {fileID: 1537971967}
     - target: {fileID: 6423618978965828285, guid: 4d116b1e2b5b44fe48c0c9df4ae82efb, type: 3}
       propertyPath: MobDistanceRun
-      value: 30
+      value: 25
       objectReference: {fileID: 0}
     - target: {fileID: 6423618978965828286, guid: 4d116b1e2b5b44fe48c0c9df4ae82efb, type: 3}
       propertyPath: m_RootOrder
@@ -5984,10 +6000,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 6423618978965828284, guid: 4d116b1e2b5b44fe48c0c9df4ae82efb, type: 3}
+      propertyPath: m_Speed
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 6423618978965828285, guid: 4d116b1e2b5b44fe48c0c9df4ae82efb, type: 3}
       propertyPath: Player
       value: 
       objectReference: {fileID: 1537971967}
+    - target: {fileID: 6423618978965828285, guid: 4d116b1e2b5b44fe48c0c9df4ae82efb, type: 3}
+      propertyPath: MobDistanceRun
+      value: 25
+      objectReference: {fileID: 0}
     - target: {fileID: 6423618978965828286, guid: 4d116b1e2b5b44fe48c0c9df4ae82efb, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -5998,7 +6022,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6423618978965828286, guid: 4d116b1e2b5b44fe48c0c9df4ae82efb, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.499115
+      value: -11.72
       objectReference: {fileID: 0}
     - target: {fileID: 6423618978965828286, guid: 4d116b1e2b5b44fe48c0c9df4ae82efb, type: 3}
       propertyPath: m_LocalPosition.z
@@ -6918,10 +6942,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 6423618978965828284, guid: 4d116b1e2b5b44fe48c0c9df4ae82efb, type: 3}
+      propertyPath: m_Speed
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 6423618978965828285, guid: 4d116b1e2b5b44fe48c0c9df4ae82efb, type: 3}
       propertyPath: Player
       value: 
       objectReference: {fileID: 1537971967}
+    - target: {fileID: 6423618978965828285, guid: 4d116b1e2b5b44fe48c0c9df4ae82efb, type: 3}
+      propertyPath: MobDistanceRun
+      value: 25
+      objectReference: {fileID: 0}
     - target: {fileID: 6423618978965828286, guid: 4d116b1e2b5b44fe48c0c9df4ae82efb, type: 3}
       propertyPath: m_RootOrder
       value: 2
