@@ -692,6 +692,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1537971967}
     - target: {fileID: 3015856489677989826, guid: 4d116b1e2b5b44fe48c0c9df4ae82efb, type: 3}
+      propertyPath: enemyDamage
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 3015856489677989826, guid: 4d116b1e2b5b44fe48c0c9df4ae82efb, type: 3}
       propertyPath: textComponent
       value: 
       objectReference: {fileID: 1165175808}
@@ -5270,6 +5274,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1537971967}
     - target: {fileID: 3015856489677989826, guid: 4d116b1e2b5b44fe48c0c9df4ae82efb, type: 3}
+      propertyPath: enemyDamage
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 3015856489677989826, guid: 4d116b1e2b5b44fe48c0c9df4ae82efb, type: 3}
       propertyPath: textComponent
       value: 
       objectReference: {fileID: 1165175808}
@@ -5493,6 +5501,10 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 1537971967}
+    - target: {fileID: 3015856489677989826, guid: 4d116b1e2b5b44fe48c0c9df4ae82efb, type: 3}
+      propertyPath: enemyDamage
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 3015856489677989826, guid: 4d116b1e2b5b44fe48c0c9df4ae82efb, type: 3}
       propertyPath: textComponent
       value: 
@@ -5988,6 +6000,10 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 1537971967}
+    - target: {fileID: 3015856489677989826, guid: 4d116b1e2b5b44fe48c0c9df4ae82efb, type: 3}
+      propertyPath: enemyDamage
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 3015856489677989826, guid: 4d116b1e2b5b44fe48c0c9df4ae82efb, type: 3}
       propertyPath: textComponent
       value: 
@@ -6930,6 +6946,10 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 1537971967}
+    - target: {fileID: 3015856489677989826, guid: 4d116b1e2b5b44fe48c0c9df4ae82efb, type: 3}
+      propertyPath: enemyDamage
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 3015856489677989826, guid: 4d116b1e2b5b44fe48c0c9df4ae82efb, type: 3}
       propertyPath: textComponent
       value: 
